@@ -8,13 +8,11 @@
 - [X] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [X] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-
+- [] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [X] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
 
 
 ### Notes
-Challenges building this app came from setting up the superhero movies view controller because the sizing came out wrong several times. 
+Challenges when creating the Superhero movies view controller, sizing turned out to be a persistent problem but was able to fix it. 
