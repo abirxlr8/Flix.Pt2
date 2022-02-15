@@ -12,6 +12,7 @@
 - [X] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
+![io_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/91585817/154002772-7c72d6b1-6c5e-4f27-8162-803debb94014.gif)
 
 
 ### Notes
